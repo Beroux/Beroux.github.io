@@ -10,7 +10,7 @@ public class delayedDestruction : MonoBehaviour
     void Start()
     {
 
-
+        //this script and it's counterpart destroy the 'zombie' cages on timed delays.
     }
 
     // Update is called once per frame

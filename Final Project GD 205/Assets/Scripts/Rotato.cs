@@ -9,5 +9,6 @@ public class Rotato : MonoBehaviour
     void Update()
     {
         transform.Rotate(Vector3.up, speed * Time.deltaTime);
+        //rotation script, apply to spin. Speed can be edited within unitys
     }
 }

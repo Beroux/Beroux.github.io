@@ -20,7 +20,9 @@ public class Seek : MonoBehaviour {
 
     void TimerInvoke()
     {
-       // if (totalSec[0] < secs2wait)
+        //oddly enough this void alone gives the effect needed for delayed lunges
+       
+        // if (totalSec[0] < secs2wait)
          //   totalSec[0]++;
        // else
          //   CancelInvoke("TimerInvoke");

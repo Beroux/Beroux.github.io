@@ -13,7 +13,7 @@ public class Y_Detect : MonoBehaviour {
 	void Update () {
         if (gameObject.tag == "Player" & transform.position.y < -75)
         {
-            Destroy(gameObject);
+            Destroy(gameObject); //destruction broke the game, so I did a scene transition instead as soon as a player fell under -75
         }
             
        

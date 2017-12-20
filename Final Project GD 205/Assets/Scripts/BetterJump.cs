@@ -25,3 +25,4 @@ public class BetterJump : MonoBehaviour {
         }
     }
 }
+//script for Player2's jump

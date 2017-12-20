@@ -13,8 +13,8 @@ public class Player1Win : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (gameObject.tag == "Player" & transform.position.y < -75)
-        {
+        if (gameObject.tag == "Player" & transform.position.y < -75) // if player falls under -75 other player wins and vice versa
+        { 
             SceneManager.LoadScene(LeveltoLoad);
         }
     }

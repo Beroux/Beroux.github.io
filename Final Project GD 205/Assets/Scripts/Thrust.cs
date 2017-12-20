@@ -12,7 +12,8 @@ public class Thrust : MonoBehaviour {
 	void Start () {
 		rb = GetComponent<Rigidbody> ();
 	}
-	
+	//thrust + player2 scripts are the player controllers.
+
 	// Update is called once per frame
 	void FixedUpdate () {
 		if (Input.GetKey (KeyCode.W)) {
