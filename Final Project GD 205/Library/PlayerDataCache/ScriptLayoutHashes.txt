@@ -1,6 +1,7 @@
 WebGL
 57b6b0e4aa1b97087c202d69c44ada8d Assembly-CSharp.dll:UnityEngine.Rendering.PostProcessing.PostProcessLayer
 702524a762b34a31b3975e810217bf52 Assembly-CSharp.dll:UnityEngine.Rendering.PostProcessing.ColorGrading
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Y_Detect
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -141,6 +142,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+1039b0b7d14f466c0cd182e29ab3ac08 Assembly-CSharp.dll:.Player1Win
 65511302c11f49de27e3ca3c7dc3aad4 Assembly-CSharp.dll:.Player2
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 2a56361227def9f56c2cf57a88b32f4d UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -156,5 +158,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 f3a7d6b7ba2834fa390d7aee0d4a2173 Assembly-CSharp.dll:UnityEngine.Rendering.PostProcessing.PostProcessVolume
 35e865cc5175d234df47214c8f8ec47c Assembly-CSharp.dll:UnityEngine.Rendering.PostProcessing.Grain
+1039b0b7d14f466c0cd182e29ab3ac08 Assembly-CSharp.dll:.Player2Win
 62a2e00b0bc2c3e206b20b2a66df2735 Assembly-CSharp.dll:UnityEngine.Rendering.PostProcessing.AmbientOcclusion
 1f4613f336b6e81659b26087af23c86a Assembly-CSharp.dll:.BetterJump
